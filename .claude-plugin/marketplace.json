@@ -1,0 +1,21 @@
+{
+  "name": "code-project-init",
+  "owner": {
+    "name": "surface0"
+  },
+  "metadata": {
+    "description": "Claude Code skill that scaffolds CLAUDE.md and a structured .claude/ directory for a project",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "code-project-init",
+      "description": "Sets up CLAUDE.md and a .claude/ directory (architecture, coding style, workflows, context, plans, session-record skill) for Claude Code projects",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/code-project-init"
+      ]
+    }
+  ]
+}

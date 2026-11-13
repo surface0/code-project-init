@@ -1,0 +1,12 @@
+{
+  "name": "code-project-init",
+  "version": "1.0.0",
+  "description": "Sets up CLAUDE.md and a .claude/ directory (architecture, coding style, workflows, context, plans, session-record skill) for Claude Code projects",
+  "author": {
+    "name": "surface0"
+  },
+  "homepage": "https://github.com/surface0/code-project-init",
+  "repository": "https://github.com/surface0/code-project-init",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "claude-md", "project-setup"]
+}
